@@ -1,0 +1,17 @@
+主題NLP analysis of news：
+
+
+一：
+Problem Statement and Task Definition.
+Description of the challenges.
+二：
+Input/Output Behavior with Concrete Examples.
+Related works.
+Methodology.
+三：
+Evaluation Metrics.
+Baselines.
+四：
+Work Plan(1.discussion 創hackmd 2. 創github 3.排schedule)
+
+
